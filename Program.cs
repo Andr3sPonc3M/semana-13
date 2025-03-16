@@ -1,6 +1,6 @@
 ﻿// Tarea_semana_13
 
-// Desarrolle un traductor básico de inglés español o español ingles.
+// Utilice una búsqueda recursiva o búsqueda iterativa para saber si un titulo existe dentro de un catálogo de revistas
 
 using System; // Importa el espacio de nombres System, que contiene clases básicas como Console.
 using System.Collections.Generic; // Importa el espacio de nombres Collections.Generic, que contiene clases como List.

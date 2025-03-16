@@ -46,16 +46,16 @@ class Program
     static void Main()
     {
         RevistaCatalogo catalogo = new RevistaCatalogo(); // Crea una instancia de RevistaCatalogo.
-        catalogo.AgregarTitulo("Vistazo"); // Agrega títulos de revistas ecuatorianas.
-        catalogo.AgregarTitulo("Hogar"); 
-        catalogo.AgregarTitulo("Ecuador Inmediato");
-        catalogo.AgregarTitulo("Revista Mundo Diners");
+        catalogo.AgregarTitulo("Revista UEA"); // Agrega títulos de revistas
+        catalogo.AgregarTitulo("Universidad"); 
+        catalogo.AgregarTitulo("Estatal");
+        catalogo.AgregarTitulo("Amazonica");
         catalogo.AgregarTitulo("Revista Gestión");
         catalogo.AgregarTitulo("Revista Ñan");
-        catalogo.AgregarTitulo("Revista Soho Ecuador");
+        catalogo.AgregarTitulo("Revista Soho");
         catalogo.AgregarTitulo("Revista Clave");
         catalogo.AgregarTitulo("Revista Ekos");
-        catalogo.AgregarTitulo("Revista América Economía");
+        catalogo.AgregarTitulo("Revista América");
 
         while (true) // Bucle infinito para mostrar el menú hasta que el usuario decida salir.
         {
